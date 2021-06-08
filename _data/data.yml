@@ -47,12 +47,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Msc in Innovation Management and BSc in Informatics Engineering. Creative and responsible professional, 
+      who seeks to make a positive impact on her environment. 
+      
 education:
     - degree: MSc in Innovation Management
       university: Pontifical Catholic University of Peru
@@ -119,27 +116,17 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Work project examples.
     assignments:
-      - title: Velocity
+      - title: EXXIS-FEX Go-Live Interactive Guide
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A responsive website designed to help new users learn the first steps of a FEX Go-Live."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Svitzer Barracuda
+        link: "youtu.be/iSaSMxVoaZw"
+        tagline: "Marketing video designed to advertise the Svitzer Barracuda project."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Small Falcon Project
+      - title: Interbank Small Falcon Project
         link: "#"
         tagline: "A customized Dashboard with credit debt statictics designed to help Financial Directors make decisions."
 
@@ -159,26 +146,26 @@ publications:
         conference: Thesis to opt for the title of Informatics Engineer, 2014
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: HANA & SQL
+        level: 95%
 
-      - name: Javascript & jQuery
-        level: 70%
+      - name: Lean UX
+        level: 95%
 
-      - name: Angular
-        level: 98%
+      - name: Scrum
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 70%
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: SAP
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Photoshop
+        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
